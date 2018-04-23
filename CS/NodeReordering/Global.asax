@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="NodeReordering.Global_asax" Language="C#" %>
