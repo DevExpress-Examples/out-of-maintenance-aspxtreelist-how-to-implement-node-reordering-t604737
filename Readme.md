@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/NodeReordering/Default.aspx) (VB: [Default.aspx.vb](./VB/NodeReordering/Default.aspx.vb))
+* [Default.aspx](./CS/NodeReordering/Default.aspx) (VB: [Default.aspx](./VB/NodeReordering/Default.aspx))
 * [Default.aspx.cs](./CS/NodeReordering/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/NodeReordering/Default.aspx.vb))
-* [Global.asax](./CS/NodeReordering/Global.asax) (VB: [Global.asax.vb](./VB/NodeReordering/Global.asax.vb))
+* [Global.asax](./CS/NodeReordering/Global.asax) (VB: [Global.asax](./VB/NodeReordering/Global.asax))
 * [Global.asax.cs](./CS/NodeReordering/Global.asax.cs) (VB: [Global.asax.vb](./VB/NodeReordering/Global.asax.vb))
 * [DataHelper.cs](./CS/NodeReordering/Models/DataHelper.cs) (VB: [DataHelper.vb](./VB/NodeReordering/Models/DataHelper.vb))
 * [ReorderHelper.js](./CS/NodeReordering/Scripts/ReorderHelper.js) (VB: [ReorderHelper.js](./VB/NodeReordering/Scripts/ReorderHelper.js))
