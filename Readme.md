@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128548244/16.1.14%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T604737)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -14,9 +9,6 @@
 * [ReorderHelper.js](./CS/NodeReordering/Scripts/ReorderHelper.js) (VB: [ReorderHelper.js](./VB/NodeReordering/Scripts/ReorderHelper.js))
 <!-- default file list end -->
 # ASPxTreeList - How to implement node reordering
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t604737/)**
-<!-- run online end -->
 
 
 <p>Currently, the ASPxTreeList control only allows node insertion (a modification of the current node's parent node). <br>This example demonstrates how to implement node reordering and also provides the implementation of custom reorder/insert icons. <br><br>Here is how you can implement this scenario
